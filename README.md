@@ -1,6 +1,6 @@
 # Flashcard-Generator
 
-* to install these npm packages run these commands one at a time.
+To install these npm packages run these commands one at a time.
 
 ```
 npm install fs
