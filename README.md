@@ -31,7 +31,9 @@ A flash card built this way has three parts:
 ### How app works
 
 Open your terminal and open Flashcard-Generator folder (`cd Flashcard-Generator`).
+
 Type `node Generator.js` and press `Enter`. You will see the message - "Please enter "rules" to see to see the list of all possible commands".
+
 ![1](https://user-images.githubusercontent.com/28790452/29722393-288982dc-8986-11e7-9835-9a5ddca4da15.gif) 
 
 
