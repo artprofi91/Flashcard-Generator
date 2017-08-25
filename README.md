@@ -8,7 +8,7 @@ The backend will essentially constitute an API that allows users to create two t
 
 2. **Cloze-Deleted** flashcards, which present _partial_ text (_"The last storm of the category 3 to hit the U.S. was Hurricane ...... in October 2005 in Florida."_), and the full text when the user requests it (_"The last storm of the category 3 to hit the U.S. was Hurricane Wilma in October 2005 in Florida."_)
 
-#### Cloze Deletions
+### Cloze Deletions
 
 A **cloze deletion** is simply a sentence that has had some of its text removed. For example, given the sentence:
 
@@ -28,6 +28,11 @@ A flash card built this way has three parts:
 
 3. The **partial text**. This is what we get if we remove the **cloze deletion** from the **full text**: _"The last storm of the category 3 to hit the U.S. was Hurricane ...... in October 2005 in Florida._
 
+### How app works
+
+Open your terminal and open Flashcard-Generator folder (`cd Flashcard-Generator`).
+Type `node Generator.js` and press `Enter`. You will see the message - "Please enter "rules" to see to see the list of all possible commands".
+![1](https://user-images.githubusercontent.com/28790452/29722393-288982dc-8986-11e7-9835-9a5ddca4da15.gif) 
 
 
 
