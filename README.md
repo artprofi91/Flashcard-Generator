@@ -36,6 +36,10 @@ Type `node Generator.js` and press `Enter`. You will see the message - "Please e
 
 ![1](https://user-images.githubusercontent.com/28790452/29722393-288982dc-8986-11e7-9835-9a5ddca4da15.gif) 
 
+Type `node Generator.js rules` and press `Enter`. 
+
+![2](https://user-images.githubusercontent.com/28790452/29722394-288e94f2-8986-11e7-8007-d22ad939aa89.gif)
+
 
 
 
