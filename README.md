@@ -40,13 +40,13 @@ Type `node Generator.js rules` and press `Enter`.
 
 ![2](https://user-images.githubusercontent.com/28790452/29722394-288e94f2-8986-11e7-8007-d22ad939aa89.gif)
 
-If you want to create Basic flashcard type `node Generator.js basic` and press `Enter`. After that you should enter front and back of the card.
+If you want to create Basic flashcard type `node Generator.js basic` and press `Enter`. After that you should enter front and back of the card. If you want to see the card that you created type `node Generator.js show` and press `Enter`.
 
 ![3](https://user-images.githubusercontent.com/28790452/29722395-28900404-8986-11e7-9fda-b55241202e57.gif)
 
+If you want to create Basic flashcard type `node Generator.js cloze` and press `Enter`. After that you should enter full text and cloze argument of the card. If you want to see the card that you created type `node Generator.js show` and press `Enter`.
 
-
-
+![4](https://user-images.githubusercontent.com/28790452/29722396-289060c0-8986-11e7-8e8c-8a27248039ad.gif)
 
 ### Hint
 
